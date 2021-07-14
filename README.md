@@ -18,15 +18,16 @@
 - Topic 4. Manipulate Repetition Statements
 - Topic 5. Manipulate Strings
 - Topic 6. Perform Functions
-- Topic 7. Manipulate Lists
-- Topic 8. Manipulate Dictionaries
-- Topic 9. Handling Exceptions
-- Topic 10. Advanced Topics in Python
-  - 10.1. List Comprehension
-  - 10.2. Enumerate Function
-  - 10.3. Map Function
-  - 10.4. Reduce Function
-  - 10.5. Zip Function
+- Topic 7. Manipulate Files
+- Topic 8. Manipulate Lists
+- Topic 9. Manipulate Dictionaries
+- Topic 10. Handling Exceptions
+- Topic 11. Advanced Topics in Python
+  - 11.1. List Comprehension
+  - 11.2. Enumerate Function
+  - 11.3. Map Function
+  - 11.4. Reduce Function
+  - 11.5. Zip Function
 
 
 ### :link: [Course Access](https://www.udemy.com/course/intro_python/)
