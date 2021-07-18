@@ -27,7 +27,9 @@
   - 11.2. Enumerate Function
   - 11.3. Map Function
   - 11.4. Reduce Function
-  - 11.5. Zip Function
+  - 11.5  Filter Function
+  - 11.6. Zip Function
+- Topic 12. List of Exercises in Python
 
 
 ### :link: [Course Access](https://www.udemy.com/course/intro_python/)
