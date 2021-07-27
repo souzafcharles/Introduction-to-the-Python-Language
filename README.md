@@ -2,9 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/souzafcharles/Introduction-to-the-Python-Language)
 ![GitHub last commit](https://img.shields.io/github/last-commit/souzafcharles/Introduction-to-the-Python-Language)
 
-# Introduction to the Python Language
-
-:computer: Udemy Course: Introduction to the Python Language
+# :snake: Udemy Course: Introduction to the Python Language
 
 :triangular_flag_on_post: Presented by Dr. Diego Mariano
 
