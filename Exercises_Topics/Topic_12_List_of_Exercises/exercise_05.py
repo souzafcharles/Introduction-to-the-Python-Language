@@ -14,7 +14,7 @@ Original file is located at
 # Resolution of Exercise 05
 
 number_01 = int(input("Enter the first number: "))
-sign = input("Enter the Sign (mathematics): ")
+sign = input("Enter the sign (mathematics): ")
 number_02 = int(input("Enter the second number: "))
  
 if sign == "+":
