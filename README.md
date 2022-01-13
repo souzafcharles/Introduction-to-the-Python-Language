@@ -29,5 +29,5 @@
   - 11.6. [Zip Function](https://github.com/souzafcharles/Introduction-to-the-Python-Language/blob/main/Examples_Topics/Topic_11_Advanced_Topics_in_Python/example_27_zip.py)
 - Topic 12. [List of Exercises in Python](https://github.com/souzafcharles/Introduction-to-the-Python-Language/tree/main/Exercises_Topics/Topic_12_List_of_Exercises)
 
-
+- :page_with_curl:[CERTIFICATE](https://github.com/souzafcharles/Introduction-to-the-Python-Language/blob/main/CERTIFICATE.pdf)
 ### :link: [Course Access](https://www.udemy.com/course/intro_python/)
